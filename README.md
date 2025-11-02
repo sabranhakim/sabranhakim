@@ -2,7 +2,8 @@
 
 🎓 Informatics Student | 💻 Fullstack Developer | ☁️ Web & Mobile Enthusiast  
 
-I love building efficient, modern, and scalable apps — especially using **Laravel, Flutter, Kotlin, and TailwindCSS**.  
+I love building efficient, modern, and scalable apps — especially using **Laravel, Flutter, Kotlin, and TailwindCSS**. 
+I am also learn about API, Microservice, and interesting about web3 or smartcontract.
 Always eager to learn new technologies and improve in clean code, system design, and UI/UX.
 
 ---
